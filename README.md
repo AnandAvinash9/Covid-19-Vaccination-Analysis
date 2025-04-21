@@ -26,7 +26,7 @@ This end-to-end project showcases how data science and visualization can be used
 ### 📁 Repository Contents
 
 - **`Covid-19 Vaccination.csv`**: Raw dataset containing information on Covid-19 vaccinations by country.
-- **`Covid-19 Vaccination.ipynb`**: Jupyter Notebook for data cleaning, exploratory data analysis (EDA), and basic visualizations.
+- **`Vaccination.ipynb`**: Jupyter Notebook for data cleaning, exploratory data analysis (EDA), and basic visualizations.
 - **`Covid-19 Vaccination Dashboard.pbix`**: Power BI file that provides interactive visuals and summaries of the dataset.
 
 ---
@@ -50,18 +50,3 @@ This end-to-end project showcases how data science and visualization can be used
 
 ---
 
-### 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AnandAvinash9/covid19-vaccination-dashboard.git
-   ```
-
-2. Open the Jupyter notebook to explore the data using Python:
-   ```bash
-   jupyter notebook Covid-19\ Vaccination.ipynb
-   ```
-
-3. Open the `.pbix` file using Power BI Desktop to interact with the dashboard.
-
----
