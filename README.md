@@ -49,6 +49,7 @@ This end-to-end project showcases how data science and visualization can be used
 - Country-level vaccination timelines.
 
 ---
+### CERTIFICATE OF INTERNSHIP
 ![VOIS](https://github.com/user-attachments/assets/5e159836-f7d9-4c54-8d90-cbfa65e403fa)
 
 
